@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="306aaf69-d203-42f5-a7b9-90ff8c623bcd" name="Default Changelist" comment="" />
+    <list default="true" id="306aaf69-d203-42f5-a7b9-90ff8c623bcd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animals.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Animals.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Dolphin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Dolphin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Sharks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Sharks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Swimmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Swimmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dolphin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dolphin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sharks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sharks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Swimmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Swimmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Terrestrial.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,12 +26,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SVOCucZfW6miNUJh5uyO7XKyEM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -53,5 +72,18 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

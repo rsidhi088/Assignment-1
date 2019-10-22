@@ -1,4 +1,4 @@
-public class Dolphin extends Animals {
+public class Dolphin extends Animals implements Swimmer {
 
     public String name;
     public String YOB;
@@ -22,5 +22,9 @@ public class Dolphin extends Animals {
 
     public void setYOB(String YOB) {
         this.YOB = YOB;
+    }
+
+    public static void swim() {
+
     }
 }
